@@ -1,0 +1,5 @@
+IP Base: 192.168.64.0  
+Cantidad de rangos: 3  
+Rango A: 64 solicitudes  
+Rango B: 127 solicitudes 
+Rango C: 63 solicitudes

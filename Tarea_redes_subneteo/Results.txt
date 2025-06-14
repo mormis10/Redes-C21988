@@ -1,0 +1,21 @@
+Rango: C
+Máscara: 25
+Net ID: 192.168.66.0
+Primera dirección disponible: 192.168.66.1
+Última dirección disponible: 192.168.66.126
+Dirección de Broadcast: 192.168.66.127
+----------------------------------------
+Rango: A
+Máscara: 25
+Net ID: 192.168.66.128
+Primera dirección disponible: 192.168.66.129
+Última dirección disponible: 192.168.66.254
+Dirección de Broadcast: 192.168.66.255
+----------------------------------------
+Rango: B
+Máscara: 24
+Net ID: 192.168.67.0
+Primera dirección disponible: 192.168.67.1
+Última dirección disponible: 192.168.67.254
+Dirección de Broadcast: 192.168.67.255
+----------------------------------------

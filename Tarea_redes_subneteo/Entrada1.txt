@@ -1,0 +1,8 @@
+IP Base: 192.168.24.0
+Cantidad de rangos: 6 
+Rango A: 16 solicitudes  
+Rango B: 127 solicitudes 
+Rango C: 30 solicitudes
+Rango D: 15 solicitudes;
+Rango E: 63 solicitudes
+Rango F: 7 solicitudes

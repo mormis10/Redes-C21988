@@ -1,0 +1,10 @@
+IP Base: 10.0.0.0
+Cantidad de rangos: 7
+Rango A: 2048 solicitudes
+Rango B: 1023 solicitudes
+Rango C: 511 solicitudes
+Rango D: 255 solicitudes
+Rango E: 100 solicitudes
+Rango F: 25 solicitudes
+Rango G: 1 solicitudes
+
